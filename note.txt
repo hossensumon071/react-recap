@@ -1,0 +1,16 @@
+2-1 Intro To Module And React Strict Mode
+- react er prottekta componnet e ekta function and ei function ta ekta pure function  tar mane apni jei input diben sei output e paben and amra react component theke amra moluto ekta jsx output pai , react er convention onojai apnar prottekt acomponent jei jsx return korche same input er jonno se same jsx output dibe , kintu by chance amra jodi kono ekta state mutate kore feli ba kono ekta karone jodi same jsx return na kori sei ta development e dora ta ekto taf hoyue jai . jarkarone react e react strict moode ta introduce kore je ekshate development moood e prottekbar 2 bar kore render hobe not only component 
+
+
+2-2 UseState And Re-Render On Set Function
+
+2-3 UseState Batch Update And Async Behavior
+
+2-4 Handle Multiple States And Usage Of The Plain Object As State
+
+
+2-5 Refactoring Change Event Functions
+    - separetion of concern 
+
+2-6 Basic Usage Of UseReducer
+   - 
